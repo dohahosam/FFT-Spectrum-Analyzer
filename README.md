@@ -1,1 +1,1 @@
-# FFT-Spectrum-Analyzer
+# CIE442-project-phase-1
